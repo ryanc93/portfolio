@@ -1,0 +1,43 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "arial", times, serif;
+  background-color: white;
+}
+
+.website-name {
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+}
+
+.website-name:first-letter {
+  Font-size: 50px;
+}
+
+.website-blurb {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  }
+
+.list-of-navigation-links {
+   list-style: none;
+   text-align: center;
+   padding-left:3px;
+  }
+
+.welcome-page-message {
+   text-align: center;
+   border-style: solid;
+   border-color: black;
+  }
+
+footer {
+     text-align: center;
+    }

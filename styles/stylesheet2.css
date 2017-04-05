@@ -1,0 +1,50 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "arial", times, serif;
+  background-color: aqua;
+}
+
+p:hover, h1:hover{
+    background-color: yellow;
+}
+
+.website-name {
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+}
+
+.website-name:first-letter {
+  Font-size: 50px;
+}
+
+.page-name {
+  text-align: center;
+  background-color: indigo;
+}
+
+.navigation-links {
+  text-align: center;
+  background-color: teal;
+}
+
+.section-blurb {
+  text-align: center;
+  background-color: teal;
+}
+
+img {
+display: block;
+margin: auto;
+}
+
+.section-gallery {
+  text-align: center;
+}
+
+footer {
+     text-align: center;
+    }
